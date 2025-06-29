@@ -1,0 +1,6 @@
+[submodule "_projects/AppCore/vendor/GLFW"]
+	path = _projects/AppCore/vendor/GLFW
+	url = https://github.com/themetadevv/glfw
+[submodule "_projects/AppCore/vendor/SPDLOG"]
+	path = _projects/AppCore/vendor/SPDLOG
+	url = https://github.com/themetadevv/spdlog
