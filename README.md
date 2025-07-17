@@ -10,8 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats"/>
 </p>
 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact&theme=tokyonight" height="195" alt="Top Languages"/>
-
+</p>
 
 ---
 
