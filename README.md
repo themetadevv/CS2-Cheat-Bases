@@ -34,10 +34,6 @@
 
 ---
 
-
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -53,8 +49,3 @@
 </p>
 
 ---
-
-<!-- Optional Footer
-<p align="center">⚡ Built with ❤️ using markdown</p>
--->
-
