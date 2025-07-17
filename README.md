@@ -8,8 +8,8 @@
 <h3 align="center"> 📊 GitHub Stats </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true&theme=radical" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact&theme=radical" height="200" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact&theme=tokyonight" height="195" alt="Top Languages"/>
 </p>
 
 ---
