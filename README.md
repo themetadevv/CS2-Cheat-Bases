@@ -8,12 +8,9 @@
 ---
 
 ## 🚀 About Me
-- 💻 I primarily use **C/C++** for system-level and game engine development.  
-- 🎮 I'm experienced with **Unity**, **Roblox Studio**, and **UE4**.  
+- 💻 I primarily use **C/C++** for low-level and game engine development.  
 - 🧠 I love building things from scratch — especially **custom game engines** with **OpenGL** and **DirectX**.
-- 🔧 I write tools using **ImGui**, and build sleek overlays for various applications.
-- 🌐 I also enjoy crafting beautiful websites in my spare time.
-
+- 🔧 I write tools using **ImGui**, and build various applications.
 ---
 
 ## 🔧 Tools & Technologies I Use
@@ -23,11 +20,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=256&id=aoRFS7u2O2dm&format=png" alt="Roblox Studio" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/clion.png" alt="CLion" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/opengl.png" alt="OpenGL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/directx.png" alt="DirectX" width="40" height="40"/>
 </p>
 
 ---
