@@ -1,11 +1,13 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF">NeoXa</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF">Saurav</span></h1>
 <h3 align="center">💻 Software Developer | 🎮 Game Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;C++%20%7C%20C%23%20%7C%20Lua%20Dev;Game%20and%20Engine%20Developer;Loves%20to%20Build%20Cool%20Stuff&center=true&width=500&height=45">
 </p>
 
+<p align="center">
 ## 📊 GitHub Stats
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true" alt="GitHub Stats"/>
