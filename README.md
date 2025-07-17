@@ -6,10 +6,17 @@
 </p>
 <h3 align="center"> 📊 GitHub Stats </h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&theme=tokyonight" alt="Top Languages"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
