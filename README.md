@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;C++%20%7C%20C%23%20%7C%20Lua%20Dev;Game%20and%20Engine%20Developer;Loves%20to%20Build%20Cool%20Stuff&center=true&width=500&height=45">
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact" alt="Top Languages"/>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -25,12 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact" alt="Top Languages"/>
-</p>
 
 ---
 
