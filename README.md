@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF">NeoXa</span></h1>
-<h3 align="center">💻 Software Developer | 🎮 Game Developer | 🌐 Web Developer</h3>
+<h3 align="center">💻 Software Developer | 🎮 Game Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;C++%20%7C%20C%23%20%7C%20Lua%20Dev;Game%20and%20Engine%20Developer;Loves%20to%20Build%20Cool%20Stuff&center=true&width=500&height=45">
@@ -42,6 +42,9 @@
   </a>
   <a href="https://www.youtube.com/@Neoxa7">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/tonystarkk.7/">
+    <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
