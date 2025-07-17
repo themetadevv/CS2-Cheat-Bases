@@ -9,6 +9,8 @@
 ## 📊 GitHub Stats
 </p>
 
+<h3 align="center"> 📊 GitHub Stats </h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact" alt="Top Languages"/>
